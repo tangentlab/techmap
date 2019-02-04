@@ -93,7 +93,7 @@
 		"lat": 50.501020,
 		"lng": -104.663479,
 		"technology": [
-			"Unity",
+			"Unity3D",
 			"Maya",
 			"Substance",
 			"C#",
@@ -101,7 +101,8 @@
 			"Ruby",
 			"Ruby on Rails",
 			"Java",
-			"Adobe Suite"
+			"Adobe Suite",
+      "Virtual Reality"
 		]
 	},
 	{
