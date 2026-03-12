@@ -352,5 +352,22 @@
 			"AWS",
       "Docker"
 		]
+	},
+  {
+		"id": "ryanhill",
+		"name": "Ryan Hill Consulting",
+		"website": "http://guidewire.squarespace.com",
+		"industry": "Interactive thingys",
+		"address": "Downtown",
+		"lat": 50.415232,
+		"lng": -104.590410,
+		"technology": [
+			"Unity3D",
+			"JavaScript",
+			"C#",
+      "HTML",
+      "CSS",
+      "Wordpress"
+		]
 	}
 ]
